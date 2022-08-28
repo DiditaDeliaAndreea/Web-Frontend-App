@@ -71,8 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Packages used:
 
-@fortawesome/fontawesome-svg-core@6.1.2\   
-@fortawesome/free-solid-svg-icons@6.1.2\  
+@fortawesome/fontawesome-svg-core@6.1.2  
+@fortawesome/free-solid-svg-icons@6.1.2\
 @fortawesome/react-fontawesome@0.2.0\
 @testing-library/jest-dom@5.16.5\
 @testing-library/react@13.3.0\
@@ -87,4 +87,4 @@ react-fontawesome@1.7.1\
 react-icons@4.4.0\
 react-scripts@5.0.1\
 react@18.2.0\
-web-vitals@2.1.4\
+web-vitals@2.1.4
