@@ -1,3 +1,5 @@
+If getting errors please use npm install react-scripts --save command first.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
